@@ -1,4 +1,4 @@
-# EAN8 Barcode Generator in C and Assembly NASM
+# EAN8 Barcode Generator in C and Assembly NASM64
 
 With this program, you can convert a string of numbers representing EAN8 into a graphical barcode with a margin, saved as a bitmap.
 
