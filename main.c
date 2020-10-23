@@ -1,3 +1,5 @@
+// up to 194 Rajmund Kożuszek
+
 #include <stdint.h>
 #include <stdio.h>
 #include <stdlib.h>
